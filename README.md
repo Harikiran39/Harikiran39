@@ -1,4 +1,4 @@
-[![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)]
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 <h1 align="center">Hi 👋, I'm Hari Kiran Jetti</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://iotnetpro.com/themes/iotnetpro/assets/img/services-details/devo.gif"`>
